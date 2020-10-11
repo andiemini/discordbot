@@ -1,0 +1,9 @@
+{
+    "token": "process.env.token",
+    "message": "New video: **{videoTitle}**! It was uploaded by {videoAuthorName} at {videoPubDate}! Here is the link: {videoURL}",
+    "channel": "764874797669941273",
+    "youtubers": [
+        "https://www.youtube.com/channel/UC3goESy-rubqpRFR1EpgGsA"
+    ],
+    "youtubeKey": "process.env.youtubeKey"
+}
